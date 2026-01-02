@@ -1,0 +1,1 @@
+const service_afra = <T>(args: T): T => { return args; };
