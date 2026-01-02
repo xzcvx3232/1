@@ -1,0 +1,1 @@
+const service_svpp = <T>(args: T): T => { return args; };
