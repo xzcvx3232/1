@@ -1,0 +1,1 @@
+const util_bg3g = (d: any) => d;
